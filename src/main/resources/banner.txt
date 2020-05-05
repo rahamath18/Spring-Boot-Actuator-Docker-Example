@@ -1,0 +1,19 @@
+
+
+
+			Spring Boot + Actuator + Docker Example using  SpringBoot 2.2.2
+					
+			###############################################################
+							
+			### Used technology stack in this example
+	
+			1. Java 8
+			2. Apache Maven 3.5.4
+			3. SpringBoot 2.2.2
+			4. springBoot Actuator 2.2.2
+			5. Docker Version: 19.03.8 - https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+			6. Postman Version 7.14.0
+			7. Windows 10	
+			
+							
+	
